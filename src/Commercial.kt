@@ -1,5 +1,19 @@
 import java.text.DecimalFormat
-
+/**
+ * @author Jeff Cadieux
+ * date: 6/17/21
+ * @param
+ * propertyName - Name of business of customer
+ * multiProperty - multiple property Commercial customers get 10% off
+ * RATE - commercial customers pay $5 per 1000 sq ft
+ * customerName - Name of customer
+ * customerPhone - Phone number of customer
+ * customerAddress - Address of customer
+ * squareFootage - Square footage of customer's building
+ *
+ * Mods
+ *
+ */
 class Commercial(propertyName: String,
                  multiProperty: Boolean,
                  customerName: String,

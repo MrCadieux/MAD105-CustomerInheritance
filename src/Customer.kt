@@ -1,3 +1,15 @@
+/**
+ * @author Jeff Cadieux
+ * date: 6/17/21
+ * @param
+ * customerName - Name of customer
+ * customerPhone - Phone number of customer
+ * customerAddress - Address of customer
+ * squareFootage - Square footage of customer's building
+ *
+ * Mods
+ *
+ */
 open class Customer(customerName: String,
                customerPhone: String,
                customerAddress: String,
